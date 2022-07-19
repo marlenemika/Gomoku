@@ -1,0 +1,26 @@
+Opening
+
+Player 1 starts with placing two black stones and one white stone.
+Player 2 then can decide if he plays with the black stones initially.
+If so, it's the turn of Player 1 again.
+Otherwise he can choose the white stones and places one more white stone.
+After that, it's the turn of Player 1 again.
+If he wants Player 1 to decide which colour he wants to play, he places another
+black and white stone. Then Player 1 either chooses black and it's the turn of
+Player 2 or he chooses white, places one white stone and it's the turn of
+Player 2 again.
+
+Game Procedure
+
+After Opening, Player 1 and Player 2 alternately place stones on the board until
+the Win Condition is fulfilled.
+
+Win Condition
+
+First player that has exactly 5 stones in one row, column or diagonal line wins
+the game. Watch out! If there are more than 5 stones in a row, you don't win!
+
+Game Over
+
+Both players lose if the whole board is placed with stones without ever having
+fulfilled the win condition.
